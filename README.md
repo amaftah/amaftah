@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mafghal
+- 👋 Hi, I’m Abderrahmane Maftah /  @mafghal
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on some projects in the future
