@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning Php
 - 💞️ I’m looking to collaborate on some projects in the future
-- 📫 How to reach me, well it's simple just search for mafghal.
+- 📫 How to reach me, well it's simple just search for mafghal. /  abderrahmanemaftah@outlook.com
 
 <!---
 mafghal/mafghal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
