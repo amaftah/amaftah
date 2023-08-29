@@ -1,4 +1,4 @@
-### Greetings, fellow developer! 👋
+# Greetings, fellow developer! 👋
 
 I am Abderrahmane Maftah, a dedicated Full Stack Developer on a mission to engineer impactful digital solutions. 🚀
 
