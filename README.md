@@ -2,6 +2,8 @@
 
 I am Abderrahmane Maftah, a dedicated Full Stack Developer on a mission to engineer impactful digital solutions. 🚀
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abderrahmane-maftah-0904961a6" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/abderrahmane-maftah-0904961a6?trk=profile-badge">Abderrahmane Maftah</a></div>
+              
 ## Expertise and Technology Stacks 🛠️
 
 My coding journey commenced with the joy of transforming abstract concepts into functional realities. I excel in architecting resilient backend systems utilizing technologies such as Node.js, Nuxt.js, and Laravel. On the frontend, I master crafting intuitive user interfaces through React, Angular, and Laravel.
@@ -22,5 +24,4 @@ Whether engaging in ambitious ventures, dissecting cutting-edge tech trends, or 
 
 Calm, composed, and coding onward! 💻🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abderrahmane-maftah-0904961a6/?originalSubdomain=ma)
 
