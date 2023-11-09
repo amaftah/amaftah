@@ -2,7 +2,11 @@
 
 I am Abderrahmane Maftah, a dedicated Full Stack Developer on a mission to engineer impactful digital solutions. 🚀
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abderrahmane-maftah-0904961a6" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/abderrahmane-maftah-0904961a6?trk=profile-badge">Abderrahmane Maftah</a></div>
+[![GitHub Badge](https://img.shields.io/github/followers/mafghal?style=social)](https://github.com/mafghal)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://https://www.linkedin.com/in/abderrahmane-maftah-0904961a6/)](https://www.linkedin.com/in/abderrahmane-maftah-0904961a6/)
+
+
+
               
 ## Expertise and Technology Stacks 🛠️
 
