@@ -1,5 +1,6 @@
 <h1 align="center">👋Greetings, Fellow Developers!, I'm Abderrahmane Maftah</h1>
 <h3 align="center">a passionate Full Stack Developer with a mission to craft digital magic. 🚀</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mafghal&label=Profile%20views&color=0e75b6&style=flat" alt="mafghal" /> </p>
 
