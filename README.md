@@ -1,4 +1,4 @@
-[![MasterHead](https://www.wxpert4u.com/wp-content/uploads/2021/02/it-banner-1.jpg)]
+![MasterHead](https://www.wxpert4u.com/wp-content/uploads/2021/02/it-banner-1.jpg)
 <h1 align="center">👋Greetings, Fellow Developers!, I'm Abderrahmane Maftah</h1>
 <h3 align="center">a passionate Full Stack Developer with a mission to craft digital magic. 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
