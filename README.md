@@ -15,13 +15,11 @@
 
 - 📫 How to reach me **Abderrahmanemaftah@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abderrahmane-maftah-0904961a6/](https://www.linkedin.com/in/abderrahmane-maftah-0904961a6/)
-
 - ⚡ Fun fact **Bananas are berries, but strawberries aren't:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abderrahmane maftah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abderrahmane maftah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abderrahmane-maftah-0904961a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abderrahmane maftah" height="30" width="40" /></a>
 <a href="https://instagram.com/__26b_9t_mth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__26b_9t_mth" height="30" width="40" /></a>
 </p>
 
