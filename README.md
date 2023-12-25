@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Reactjs portfolio](https://github.com/mafghal/Portfolio-ReactJs)
 
-- 🌱 I’m currently learning **ReactJs , nodejs**
+- 🌱 I’m currently learning **GO
 
 - 💬 Ask me about **react , Typescript , Javascript**
 
