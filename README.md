@@ -1,56 +1,95 @@
+<!-- Banner -->
 ![Banner](https://www.wxpert4u.com/wp-content/uploads/2021/02/it-banner-1.jpg)
 
-<h1 align="center">Hi there 👋, I'm Abderrahmane Maftah</h1>
-<h3 align="center">Full Stack Developer | Building digital experiences with clean code and creativity 🚀</h3>
+<h1 align="center">Hi 👋, I'm Abderrahmane Maftah</h1>
+<h3 align="center">Certified ServiceNow Developer & System Administrator | Full Stack Developer | Passionate Technologist 🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amaftah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-### 🚀 About Me
-
-- 🌱 Currently diving into **Go**
-- 🔭 Working on a new [React Portfolio](https://github.com/mafghal/Portfolio-ReactJs)
-- 💬 Ask me about **React, TypeScript, JavaScript**
-- 📫 Reach me at: **Abderrahmanemaftah@outlook.com**
-- ⚡ Fun Fact: *Bananas are berries, but strawberries aren't!*
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ---
 
-### 🌐 Connect with Me
+### 🧑‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-maftah-0904961a6/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/__26b_9t_mth)
+Certified ServiceNow Developer and System Administrator (CSA) with a background in IT support, CRM systems, and front-end development.  
+Experienced in building scalable ServiceNow applications, enhancing ITSM processes, and delivering user-centric digital solutions.  
+Currently expanding my skill set by learning **Go (Golang)** and building a new portfolio in **React**.  
+I love streamlining operations, troubleshooting technical challenges, and driving innovation.
 
 ---
 
-### 🛠️ Tech Stack
+### 🎓 Certifications
 
-<!-- Use icons cleanly grouped by categories -->
+- ✅ ServiceNow Certified System Administrator (CSA)  
+- ✅ ServiceNow Certified Application Developer (CAD)
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+---
 
-**Backend & Database:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel) ![Symfony](https://img.shields.io/badge/-Symfony-000?style=flat&logo=symfony)
+### ⚙️ Tech Stack
 
-**Tools & DevOps:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+#### 👨‍💻 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
 
-**Design:**  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop) ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator)
+#### 🛠️ Tools & Platforms
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-ffffff?style=flat-square&logo=servicenow)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+
+#### 🎨 Design
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd)
+
+---
+
+### 🔨 Current Projects
+
+- 🚧 Working on: [React Portfolio](https://github.com/mafghal/Portfolio-ReactJs)
+- 📘 Learning: **Go (Golang)**  
+- 💬 Ask me about: **React, TypeScript, JavaScript**
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaftah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=amaftah&show_icons=true&theme=tokyonight" alt="amaftah stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaftah&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaftah&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaftah&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/abderrahmane-maftah-0904961a6" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Abderrahmanemaftah@outlook.com">
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/__26b_9t_mth" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> ⚡ **Fun Fact:** Bananas are berries, but strawberries aren't.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amaftah&label=Profile%20views&color=0e75b6&style=flat" alt="amaftah" />
+</p>
