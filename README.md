@@ -10,10 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-Certified ServiceNow Developer and System Administrator (CSA) with a background in IT support, CRM systems, and front-end development.  
-Experienced in building scalable ServiceNow applications, enhancing ITSM processes, and delivering user-centric digital solutions.  
-Currently expanding my skill set by learning **Go (Golang)** and building a new portfolio in **React**.  
-I love streamlining operations, troubleshooting technical challenges, and driving innovation.
+Certified ServiceNow Developer and System Administrator (CSA) with a strong foundation in IT support, CRM platforms, and front-end development. Skilled in developing scalable ServiceNow solutions, optimizing ITSM workflows, and creating intuitive, user-focused digital experiences. Currently deepening my expertise by learning Go (Golang) and designing a new personal portfolio using React. Passionate about improving operational efficiency, solving complex technical problems, and driving forward-thinking innovation.
 
 ---
 
