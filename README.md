@@ -15,8 +15,7 @@ Certified ServiceNow Developer and System Administrator (CSA) with a strong foun
 ---
 
 ### 🎓 Certifications
-
-- ✅ ServiceNow Certified System Administrator (CSA)  
+ 
 - ✅ ServiceNow Certified Application Developer (CAD)
 
 ---
