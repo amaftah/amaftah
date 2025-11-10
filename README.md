@@ -2,7 +2,7 @@
 ![Banner](https://www.wxpert4u.com/wp-content/uploads/2021/02/it-banner-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Abderrahmane Maftah</h1>
-<h3 align="center">Certified ServiceNow Developer & System Administrator | Full Stack Developer | Passionate Technologist 🚀</h3>
+<h3 align="center">Certified ServiceNow Developer  | Full Stack Developer | Passionate Technologist 🚀</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
