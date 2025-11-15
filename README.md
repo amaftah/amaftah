@@ -1,91 +1,126 @@
-<!-- Banner -->
-![Banner](https://www.wxpert4u.com/wp-content/uploads/2021/02/it-banner-1.jpg)
-
-<h1 align="center">Hi 👋, I'm Abderrahmane Maftah</h1>
-<h3 align="center">Certified ServiceNow Developer  | Full Stack Developer | Passionate Technologist 🚀</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
----
-
-### 🧑‍💻 About Me
-
-Certified ServiceNow Developer with a strong foundation in IT support, CRM platforms, and front-end development. Skilled in developing scalable ServiceNow solutions, optimizing ITSM workflows, and creating intuitive, user-focused digital experiences. Currently deepening my expertise by learning Go (Golang) and designing a new personal portfolio using React. Passionate about improving operational efficiency, solving complex technical problems, and driving forward-thinking innovation.
-
----
-
-### 🎓 Certifications
- 
-- ✅ ServiceNow Certified Application Developer (CAD)
-
----
-
-### ⚙️ Tech Stack
-
-#### 👨‍💻 Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-
-#### 🛠️ Tools & Platforms
-![ServiceNow](https://img.shields.io/badge/-ServiceNow-ffffff?style=flat-square&logo=servicenow)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
-
-#### 🎨 Design
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd)
-
----
-
-### 🔨 Current Projects
-
-- 🚧 Working on: [React Portfolio](https://github.com/mafghal/Portfolio-ReactJs)
-- 📘 Learning: **Go (Golang)**  
-- 💬 Ask me about: **React, TypeScript, JavaScript**
-
----
-
-### 📊 GitHub Stats
-
+<!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaftah&show_icons=true&theme=tokyonight" alt="amaftah stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Abderrahmane+Maftah!+👋;Certified+ServiceNow+Developer+⚡;Full+Stack+Developer+🚀;Cloud+Automation+%26+Modern+Engineering+🔥" alt="Typing SVG" />
 </p>
+
+<!-- Glassmorphism Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaftah&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaftah&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://i.ibb.co/6HdpDtW/glass.png" width="850" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🎯 **About Me**
 
-<p align="left">
-  <a href="https://linkedin.com/in/abderrahmane-maftah-0904961a6" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+I'm a **ServiceNow Developer**, **Full Stack Engineer**, and **Automation Enthusiast** passionate about building **scalable systems**, optimizing **ITSM workflows**, and designing **clean, modern UIs**.
+
+✨ **I create:**  
+- Cloud-ready enterprise solutions  
+- Modern web interfaces (React / Next.js)  
+- Automated workflows & integrations  
+- High-performance backend systems (Go, Node.js)
+
+🌍 **I believe in:**  
+Clean architecture • DevOps culture • Innovation • User-centric design
+
+---
+
+## ⚡ **Skills & Tools (Interactive Visual Grid)**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,go,java,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,figma,postman,cloudflare,bash,vscode" /><br/>
+  <img src="https://skillicons.dev/icons?i=servicenow" />
+</p>
+
+---
+
+## 🧩 **What I’m Doing Today**
+
+| Area | Focus |
+|------|--------|
+| 🔥 **Learning** | Go (Golang), Cloud Automation |
+| 💼 **Building** | Modern React Portfolio (Next.js 15 + App Router) |
+| 🚀 **Improving** | System design, architecture, CI/CD |
+| 🎯 **Goal** | Become Senior Engineer in Cloud + Automation |
+
+---
+
+## 🌟 **Featured Projects (with Visual Cards)**
+
+<p align="center">
+
+<a href="https://github.com/amaftah/JsonPath">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amaftah&repo=JsonPath&theme=transparent" />
+</a>
+
+<a href="https://github.com/amaftah/Javascript-Workshop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amaftah&repo=Javascript-Workshop&theme=transparent" />
+</a>
+
+<a href="https://github.com/amaftah/-COBOL-Date-application">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amaftah&repo=-COBOL-Date-application&theme=transparent" />
+</a>
+
+</p>
+
+---
+
+## 📈 **Visual GitHub Analytics**
+
+### 🔹 **Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaftah&theme=react-dark&hide_border=true" />
+</p>
+
+### 🔹 **Stats Overview**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amaftah&show_icons=true&theme=react&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaftah&layout=compact&theme=react&hide_border=true" height="160"/>
+</p>
+
+### 🔹 **Contribution Streak**
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=amaftah&theme=react&hide_border=true"/>
+</p>
+
+---
+
+## ⚙️ **Tech Radar (Future Skills Focus)**
+
+🛠 Learning Next:  
+- **Terraform** for infrastructure automation  
+- **Kubernetes** for production workloads  
+- **ServiceNow Architect Track**  
+- **Go concurrency patterns**  
+- **Reactive UI design architecture**
+
+---
+
+## 🌐 **Connect With Me**
+
+<p align="center">
+  <a href="https://linkedin.com/in/abderrahmane-maftah-0904961a6">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
   </a>
   <a href="mailto:Abderrahmanemaftah@outlook.com">
-    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" />
   </a>
-  <a href="https://instagram.com/__26b_9t_mth" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/__26b_9t_mth">
+    <img src="https://skillicons.dev/icons?i=instagram" width="55" />
   </a>
 </p>
 
 ---
 
-> ⚡ **Fun Fact:** Bananas are berries, but strawberries aren't.
+## 🔥 Fun Detail
+
+> "Bananas are berries, but strawberries are not."  
+Science is weird — but coding is weirder 😄
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amaftah&label=Profile%20views&color=0e75b6&style=flat" alt="amaftah" />
+  <img src="https://komarev.com/ghpvc/?username=amaftah&label=Profile+Views&color=1877F2&style=flat-square" />
 </p>
+
