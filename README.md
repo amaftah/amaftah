@@ -5,7 +5,7 @@
 
 <!-- Glassmorphism Card -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.svg" width="850" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="850" />
 </p>
 
 ---
