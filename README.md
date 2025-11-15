@@ -1,11 +1,11 @@
 <!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Abderrahmane+Maftah!+👋;Certified+ServiceNow+Developer+⚡;Full+Stack+Developer+🚀;Cloud+Automation+%26+Modern+Engineering+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00A8FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Abderrahmane+Maftah!+👋;ServiceNow+Developer+⚡;Full+Stack+Engineer+🚀;Cloud+%26+Automation+Enthusiast+🔥" alt="Typing Animation" />
 </p>
 
 <!-- Glassmorphism Card -->
 <p align="center">
-  <img src="https://i.ibb.co/6HdpDtW/glass.png" width="850" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.svg" width="850" />
 </p>
 
 ---
